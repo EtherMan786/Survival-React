@@ -1,0 +1,67 @@
+.shareResultContent {
+    position: relative;
+}
+
+.shareResultContent .person-img img {
+    width: 100%;
+}
+
+.shareResultContent .rectangle {
+    position: absolute;
+    top: 8%;
+    width: 50%;
+    left: 25%;
+}
+
+.shareResultContent .rectangle img {
+    width: 100%;
+}
+
+.shareResultContent .heading {
+    width: 100%;
+}
+
+.shareResultContent .heading .inner-heading {
+    width: 43%;
+    margin-left: 2%;
+    position: absolute;
+    font-family: 'Teko';
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 47px;
+    top: 42%;
+    color: #EDF0F2;
+    left: 29%;
+}
+.shareResultContent .description{
+    width: 43%;
+    margin-left: 2%;
+    position: absolute;
+    font-family: 'Teko';
+    font-size: 32px;
+    font-weight: 200;
+    line-height: 33px;
+    top: 63%;
+    color: #EDF0F2;
+    left: 29%;
+}
+.shareResultContent .morez{
+    position: absolute;
+    font-family: 'Teko';
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 33px;
+    top: 78%;
+    left: 35%;
+    color: #EDF0F2;
+}
+.shareResultContent .morez::before{
+    content: "";
+    width: 28px;
+    height: 28px;
+    top: 0px;
+    left: -18%;
+    background-image: url("../../Assets/Images/cross-mark.png");
+    background-size: cover;
+    position: absolute;    
+}

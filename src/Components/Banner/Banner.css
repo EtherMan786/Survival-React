@@ -1,0 +1,99 @@
+.mainContent {
+    display: flex;
+    width: 100%;
+}
+
+.mainContent .leftContent {
+    margin-top: 120px;
+}
+
+.mainContent .leftContent {
+    width: 21.5%;
+}
+
+.mainContent .leftContent .surviveImg {
+    width: 100%;
+    position: relative;
+}
+
+.mainContent .leftContent .surviveImg::after {
+    content: url("../../Assets/Images/Group\ 12.svg");
+    right: 0;
+    bottom: -132px;
+    z-index: -1;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 151px;
+    animation: slidedown 1s linear infinite;
+}
+@keyframes slidedown{
+    from {
+        transform: translateY(0%);
+    }
+    to {
+        transform: translateY(70px);
+    }
+}
+.mainContent .leftContent .surviveImg img {
+    width: 100%;
+}
+
+.mainContent .leftContent .socialIcon {
+    width: 100%;
+}
+
+.mainContent .leftContent .socialIcon img {
+    width: 5.021%;
+}
+
+.mainContent .rightContent {
+    width: 78.5%;
+}
+
+.mainContent .rightContent .slider-container .slider .bannerImg img {
+    width: 99.7%;
+}
+
+.slider-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.slider {
+    width: 100%;
+}
+
+.slick-slide img {
+    width: 100%;
+    height: auto;
+}
+
+.slick-prev {
+    position: absolute;
+    z-index: 1;
+    bottom: 135px;
+    right: 160px;
+    border: none;
+    background-color: #E4003B;
+    transform: rotate(270deg);
+    width: 66px;
+    height: 66px;
+}
+
+.slick-prev img,
+.slick-next img {
+    width: 17px;
+}
+
+.slick-next {
+    position: absolute;
+    z-index: 1;
+    bottom: 69px;
+    right: 160px;
+    border: none;
+    background-color: #EDF0F2;
+    transform: rotate(90deg);
+    width: 66px;
+    height: 66px;
+}

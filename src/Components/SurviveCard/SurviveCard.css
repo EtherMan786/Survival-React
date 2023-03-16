@@ -1,0 +1,26 @@
+.surviveLeft .img1{
+    margin-top: 247px;
+}
+.surviveLeft .thirteen{
+    font-family: 'Teko', sans-serif;
+    color: #E4003B;
+}
+.surviveLeft .thirteen img , .surviveLeft .img3 img{
+    margin-top: -50px;
+}
+/* .surviveLeft .thirteen img{
+    width: 140%;
+    height: 307px;
+} */
+.surviveLeft .img4 img{
+    margin-top: 20px;
+}
+.surviveLeft img{
+    width: 100%;
+}
+.surviveLeft .img3 img{
+    width: 160%;
+}
+.img5 img{
+    height: 89%;
+}

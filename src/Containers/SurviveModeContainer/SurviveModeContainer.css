@@ -1,0 +1,15 @@
+.SurviveModeContainerContent{
+    margin-top: 40px;
+    width: 93.75%;
+    display: flex;
+}
+.SurviveModeContainerContent .leftContent{
+    padding-top: 6%;
+    margin-left: -35px;
+}
+.SurviveModeContainerContent .leftContent img{
+    width: 100%;
+}
+.SurviveModeContainerContent .rightContent{
+    width: 100%;
+}

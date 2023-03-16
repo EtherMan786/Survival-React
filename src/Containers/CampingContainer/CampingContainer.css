@@ -1,0 +1,63 @@
+.campingContainerContent{
+    width: 93.75%;
+    margin-top: 175px;
+    display: flex;
+    position: relative;
+}
+.campingContainerContent::before{
+    content: "";
+    position: absolute;
+    background-image: url("../../Assets/Images/Group\ 12.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 151px;
+    height: 225px;
+    right: 0;
+    bottom: -22%;
+    transform: rotate(180deg);
+    animation: slidein 1s linear infinite;
+}
+@keyframes slidein{
+    from {
+        transform: rotate(180deg) translateY(0%);
+    }
+    to {
+        transform: rotate(180deg) translateY(100px);
+    }
+}
+.surviveleftContent{
+    width: 66.84%;
+    display: flex;
+}
+.surviverightContent{
+    padding-left: 2%;
+    width: 21%;
+}
+.gallery{
+    margin-top: 24.5%;
+}
+.gallery img{
+    width: 90%;
+}
+.lorem_black{
+    margin-top: 10%;
+}
+.lorem_black img{
+    width: 96%;
+}
+.moress{
+    position: relative;
+    padding-left: 14%;
+    font-family: "Teko";
+    line-height: 34px;
+}
+.moress::before{
+    content: "";
+    position: absolute;
+    background-image: url("../../Assets/Images/cross-mark.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 29px;
+    height: 29px;
+    left: 0;
+}

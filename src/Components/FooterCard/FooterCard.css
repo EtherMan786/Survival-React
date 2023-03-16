@@ -1,0 +1,33 @@
+.footer{
+    position: relative;
+    background-image: linear-gradient(#00000033, #000000);
+}
+
+.footer .footerImg{
+    width: 100%;
+}
+.footer .adventureBlack{
+    position: absolute;
+    top: 29%;
+    left: 4.25%;
+}
+.footer .challengeContent{
+    position: absolute;
+    top: 10%;
+    left: 24%;
+}
+.footer .advices{
+    position: absolute;
+    top: 10%;
+    left: 44%;
+}
+.footer .footergallery{
+    position: absolute;
+    top: 10%;
+    right: 25.4%;
+}
+.footer .social{
+    position: absolute;
+    left: 24%;
+    bottom: 6.5%;
+}

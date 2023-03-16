@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147.506" height="34.869" viewBox="0 0 147.506 34.869">
+  <g id="btn_more" transform="translate(3.566 3.505)">
+    <text id="Find_out_more" data-name="Find out more" transform="translate(47.94 19.86)" font-size="17" font-family="Teko-SemiBold, Teko" font-weight="600" letter-spacing="0.03em"><tspan x="0" y="0">FIND OUT MORE</tspan></text>
+    <g id="_" data-name="+" transform="translate(-1068.5 -226.605)">
+      <line id="Line_6" data-name="Line 6" x1="27.38" y2="27.86" transform="translate(1068.5 226.605)" fill="none" stroke="#e4003b" stroke-width="10"/>
+      <line id="Line_7" data-name="Line 7" x2="27.38" y2="27.86" transform="translate(1068.5 226.605)" fill="none" stroke="#e4003b" stroke-width="10"/>
+    </g>
+  </g>
+</svg>

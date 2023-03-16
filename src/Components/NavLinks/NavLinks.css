@@ -1,0 +1,19 @@
+.navlinks{
+    height: 51px;
+    margin-top: 40px;
+    align-items: center;
+}
+.navlinks p {
+    font-size: 17px;
+    line-height: 17px;
+    letter-spacing: 0.51px;
+    line-height: 53px;
+    color: #000000;
+    margin-right: 40px;
+    font-family: 'Teko', sans-serif;
+    vertical-align: super;
+
+}
+.navlinks p:last-child{
+    border-right: 1px solid red;
+}

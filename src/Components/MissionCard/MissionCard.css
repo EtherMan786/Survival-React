@@ -1,0 +1,59 @@
+.Missioncontent .shoesImg{
+    position: relative;
+}
+.Missioncontent .shoesImg Img{
+    width: 100%;
+    margin-top: 136px;
+}
+.Missioncontent .shoesImg::before{
+    content: "01";
+    margin-top: 28px;
+    position: absolute;
+    color: #E4003B;
+    font-size: 60px;
+    font-family: 'Teko', sans-serif;
+}
+.Missioncontent .shoesImg::after{
+    content: "ENDURANCE";
+    font-family: 'Teko', sans-serif;
+    position: absolute;
+    color: #FFFFFF;
+    word-break: break-all;
+    left: 41px;
+    margin-top: 66px;
+    font-size: 125px;
+    z-index: -1;
+    line-height: 90px;
+    letter-spacing: 5.22px;
+    animation: zoomin 1s linear infinite;
+}
+@keyframes zoomin{
+    from {
+        transform:  scale(0);
+    }
+    to {
+        transform:  scale(1);
+    }
+}
+.Missioncontent .bottomContent .heading{
+    font-family: 'Teko', sans-serif;
+    font-size: 60px;
+    line-height: 60px;
+    color: #000000;
+    margin-top: -20px;
+}
+.Missioncontent .bottomContent .subHeading{
+    font-family: 'Teko', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: #000000;
+    line-height: 36px;
+}
+.Missioncontent .bottomContent .description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #000000;
+    letter-spacing: 0.28px;
+    line-height: 22px;
+    margin: 10px 0;
+}

@@ -1,0 +1,33 @@
+.background{
+    margin-right: 3.94%;
+    position: relative;
+    width: 50%;
+}
+.background .backgroundImg {
+    width: 100%;
+}
+.background:hover{
+    transform:  scale(1.1);
+    cursor: pointer;
+}
+.date{
+    position: absolute;
+    bottom: 25%;
+    left: 9%;
+}
+.date img{
+    width: 80%;
+}
+.icon{
+    position: absolute;
+    top: 7.5%;
+    left: 9%;
+} 
+.text{
+    position: absolute;
+    bottom: 6%;
+    left: 9%;
+}
+.text img{
+    width: 87%;
+}
