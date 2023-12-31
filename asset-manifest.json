@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Survival-React/static/css/main.0b9792b3.css",
+    "main.js": "/Survival-React/static/js/main.7c1eef43.js",
+    "static/js/787.2c27b88d.chunk.js": "/Survival-React/static/js/787.2c27b88d.chunk.js",
+    "static/media/Mask Group 2.png": "/Survival-React/static/media/Mask Group 2.a6914bb987f4db436b14.png",
+    "static/media/Mask Group 4.png": "/Survival-React/static/media/Mask Group 4.2053eff008e52fee9d23.png",
+    "static/media/img_header.png": "/Survival-React/static/media/img_header.5a06017bda5d8f6ef9d5.png",
+    "static/media/footerBackground.png": "/Survival-React/static/media/footerBackground.5c3ccfec6f8b3fb62617.png",
+    "static/media/tea.png": "/Survival-React/static/media/tea.0769b05a4b76af3709ef.png",
+    "static/media/forest house.png": "/Survival-React/static/media/forest house.e9896a4f524a0b91ec80.png",
+    "static/media/img_fire.png": "/Survival-React/static/media/img_fire.8ca1c5bc519021748bd5.png",
+    "static/media/img_shoes.png": "/Survival-React/static/media/img_shoes.d1909856965f72827290.png",
+    "static/media/Mask Group 1.png": "/Survival-React/static/media/Mask Group 1.99dbc772c2c772089fed.png",
+    "static/media/meal.png": "/Survival-React/static/media/meal.e65a398cdcbe38f95885.png",
+    "static/media/Text.png": "/Survival-React/static/media/Text.b61fb3c3b0e16b36a888.png",
+    "static/media/your results.png": "/Survival-React/static/media/your results.09f3ec855bd51aec450b.png",
+    "static/media/Rectangle 15.png": "/Survival-React/static/media/Rectangle 15.12140d6137504aa40018.png",
+    "static/media/Group11.png": "/Survival-React/static/media/Group11.4b92164a318593454e0f.png",
+    "static/media/Group 9.png": "/Survival-React/static/media/Group 9.af54c7eabd7848abdb28.png",
+    "static/media/advices.png": "/Survival-React/static/media/advices.5a3c0fb5f8adb7c47ffe.png",
+    "static/media/btn_next_ACTIVE.svg": "/Survival-React/static/media/btn_next_ACTIVE.fffba8a046419c31f142ae3e75839805.svg",
+    "static/media/btn_next_passive.svg": "/Survival-React/static/media/btn_next_passive.731d65d8810ea30ffd228abc4124a79c.svg",
+    "static/media/arrowBlack.svg": "/Survival-React/static/media/arrowBlack.25b04cd8c5344e67b6bc23a01160ec07.svg",
+    "static/media/Group 12.svg": "/Survival-React/static/media/Group 12.dbd9a9e4c9457433e0c4.svg",
+    "index.html": "/Survival-React/index.html",
+    "static/media/lorem_text.svg": "/Survival-React/static/media/lorem_text.241a572cb01d762b01460baee9c9ffbe.svg",
+    "main.0b9792b3.css.map": "/Survival-React/static/css/main.0b9792b3.css.map",
+    "main.7c1eef43.js.map": "/Survival-React/static/js/main.7c1eef43.js.map",
+    "787.2c27b88d.chunk.js.map": "/Survival-React/static/js/787.2c27b88d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9792b3.css",
+    "static/js/main.7c1eef43.js"
+  ]
+}
